@@ -1,0 +1,152 @@
+{
+    "valorBruto": 12123432.00,
+    "qtdAtivos": 22,
+    "rentabilidadeCMes": 0.15,
+    "rentabilidadeCAno": 0.15,
+    "rentabilidadeC12M": 0.15,
+    "produtosCarteira": [
+        {
+            "produto": "Fundos",
+            "porcentagemCarteira": 0.20,
+            "ativos": 5,
+            "rentabilidadeMes": 0.15,
+            "rentabilidadeAno": 0.15,
+            "rentabilidade12M": 0.15,
+            "corHex": "BADEF5",
+            "valorPatrimonio": 5000000.00
+        },
+        {
+            "produto": "Renda Fixa",
+            "porcentagemCarteira": 0.20,
+            "ativos": 5,
+            "rentabilidadeMes": 0.15,
+            "rentabilidadeAno": 0.15,
+            "rentabilidade12M": 0.15,
+            "corHex": "3D58F2",
+            "valorPatrimonio": 5000000.00
+        },
+        {
+            "produto": "Ações/Futuros",
+            "porcentagemCarteira": 0.20,
+            "ativos": 5,
+            "rentabilidadeMes": 0.15,
+            "rentabilidadeAno": 0.15,
+            "rentabilidade12M": 0.15,
+            "corHex": "2B3182",
+            "valorPatrimonio": 5000000.00
+        },
+        {
+            "produto": "Tesouro",
+            "porcentagemCarteira": 0.20,
+            "ativos": 5,
+            "rentabilidadeMes": 0.15,
+            "rentabilidadeAno": 0.15,
+            "rentabilidade12M": 0.15,
+            "corHex": "0075FF",
+            "valorPatrimonio": 5000000.00
+        },
+        {
+            "produto": "Previdência",
+            "porcentagemCarteira": 0.20,
+            "ativos": 5,
+            "rentabilidadeMes": 0.15,
+            "rentabilidadeAno": 0.15,
+            "rentabilidade12M": 0.15,
+            "corHex": "0A1240",
+            "valorPatrimonio": 5000000.00
+        }
+    ],
+    "detalhesGraficoLinhas": [
+        {
+            "dtReferencia": "01/09/2019 00:00:000",
+            "indiceCDI": 0.0046,
+            "indicePoupanca": 0.0032,
+            "indiceIbov": 0.0357,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/10/2019 00:00:000",
+            "indiceCDI": 0.0048,
+            "indicePoupanca": 0.00291,
+            "indiceIbov": 0.0236,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/11/2019 00:00:000",
+            "indiceCDI": 0.0038,
+            "indicePoupanca": 0.00287,
+            "indiceIbov": 0.0095,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/12/2019 00:00:000",
+            "indiceCDI": 0.0037,
+            "indicePoupanca": 0.00287,
+            "indiceIbov": 0.0685,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/01/2020 00:00:000",
+            "indiceCDI": 0.0038,
+            "indicePoupanca": 0.0025,
+            "indiceIbov": -0.0163,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/02/2020 00:00:000",
+            "indiceCDI": 0.0029,
+            "indicePoupanca": 0.0025,
+            "indiceIbov": -0.0843,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/03/2020 00:00:000",
+            "indiceCDI": 0.0034,
+            "indicePoupanca": 0.0024,
+            "indiceIbov": -0.2990,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/04/2020 00:00:000",
+            "indiceCDI": 0.0028,
+            "indicePoupanca": 0.0021,
+            "indiceIbov": 0.1025,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/05/2020 00:00:000",
+            "indiceCDI": 0.0024,
+            "indicePoupanca": 0.0021,
+            "indiceIbov": 0.0857,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/06/2020 00:00:000",
+            "indiceCDI": 0.0021,
+            "indicePoupanca": 0.0017,
+            "indiceIbov": 0.0876,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/07/2020 00:00:000",
+            "indiceCDI": 0.0019,
+            "indicePoupanca": 0.0013,
+            "indiceIbov": 0.0827,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/08/2020 00:00:000",
+            "indiceCDI": 0.0016,
+            "indicePoupanca": 0.0013,
+            "indiceIbov": -0.0344,
+            "indiceCarteira": 0.0095
+        },
+        {
+            "dtReferencia": "01/09/2020 00:00:000",
+            "indiceCDI": 0.0016,
+            "indicePoupanca": 0.0013,
+            "indiceIbov": -0.0480,
+            "indiceCarteira": 0.0095
+        }
+    ]
+}
